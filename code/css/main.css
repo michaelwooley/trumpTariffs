@@ -1,0 +1,53 @@
+@import url('./GT-Walsheim/GT-Walsheim.css');
+
+* {
+  border-radius: 0 !important;
+  font-family: 'GT Walsheim', normal;
+  font-weight: normal;
+}
+
+.counties {
+  fill: none;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.caption {
+  font-weight: bold;
+}
+
+.fig-notes {
+  font-size: 0.5em !important;
+}
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.pause-button {
+  fill: rgb(0, 167, 181);
+  margin: 3px;
+  /*outline: 0.5px solid rgb(233, 40, 65);*/
+  font-weight: bolder;
+  user-select: none;
+  font-size: 1.1em;
+}
+
+.pause-button:hover {
+  cursor: pointer;
+}
+
+.axis-tick {
+  user-select: none;
+}
+
+.subtitle {
+  font-size: 0.7em;
+  opacity: 0.75;
+  font-style: italic;
+}

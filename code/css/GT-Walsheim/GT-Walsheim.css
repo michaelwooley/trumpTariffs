@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'GT Walsheim';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GT-Walsheim-Regular') format('woff'),
+    url('GT-Walsheim-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GT Walsheim';
+  font-style: normal;
+  font-weight: bold;
+  src: local('GT-Walsheim-Medium') format('woff'),
+    url('GT-Walsheim-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GT Walsheim';
+  font-style: normal;
+  font-weight: bolder;
+  src: local('GT-Walsheim-Bold') format('woff'),
+    url('GT-Walsheim-Bold.woff') format('woff');
+}

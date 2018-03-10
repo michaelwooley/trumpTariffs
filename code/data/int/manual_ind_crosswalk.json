@@ -1,0 +1,1668 @@
+{
+  "0": {
+    "ind": "111",
+    "naics": "111",
+    "desc": "Crop production",
+    "manual_ind": ["1111A0", "1111B0", "111200", "111300", "111400", "111900"]
+  },
+  "2": {
+    "ind": "112",
+    "naics": "112",
+    "desc": "Animal production and aquaculture (2013-onward)",
+    "manual_ind": ["1121A0", "112120", "112A00", "112300"]
+  },
+  "3": {
+    "ind": "113M",
+    "naics": "1131, 1132",
+    "desc": "Forestry, except logging",
+    "manual_ind": [113000]
+  },
+  "4": {
+    "ind": "1133",
+    "naics": "1133",
+    "desc": "Logging",
+    "manual_ind": [113000]
+  },
+  "5": {
+    "ind": "114",
+    "naics": "114",
+    "desc": "Fishing, hunting, and trapping",
+    "manual_ind": [114000]
+  },
+  "6": {
+    "ind": "115",
+    "naics": "115",
+    "desc": "Support activities for agriculture and forestry",
+    "manual_ind": [115000]
+  },
+  "7": {
+    "ind": "211",
+    "naics": "211",
+    "desc": "Oil and gas extraction",
+    "manual_ind": [211000]
+  },
+  "8": {
+    "ind": "2121",
+    "naics": "2121",
+    "desc": "Coal mining",
+    "manual_ind": [212100]
+  },
+  "9": {
+    "ind": "2122",
+    "naics": "2122",
+    "desc": "Metal ore mining",
+    "manual_ind": ["2122A0", "212230"]
+  },
+  "10": {
+    "ind": "2123",
+    "naics": "2123",
+    "desc": "Nonmetallic mineral mining and quarrying",
+    "manual_ind": ["212310", "2123A0"]
+  },
+  "11": {
+    "ind": "21S",
+    "naics": "Part of 21",
+    "desc": "Not specified type of mining",
+    "manual_ind": ["211000", "212100", "2122A0", "212230", "212310", "2123A0", "213111", "21311A"]
+  },
+  "12": {
+    "ind": "213",
+    "naics": "213",
+    "desc": "Support activities for mining",
+    "manual_ind": ["213111", "21311A"]
+  },
+  "13": {
+    "ind": "2211P",
+    "naics": "2211",
+    "desc": "Electric power generation, transmission and distribution",
+    "manual_ind": [221100]
+  },
+  "14": {
+    "ind": "2212P",
+    "naics": "2212",
+    "desc": "Natural gas distribution",
+    "manual_ind": [221200
+]
+  },
+  "15": {
+    "ind": "221MP",
+    "naics": "Pts. 2211, 2212",
+    "desc": "Electric and gas, and other combinations",
+    "manual_ind": [221200, 221100, "S00202"]
+  },
+  "16": {
+    "ind": "2213M",
+    "naics": "22131, 22133",
+    "desc": "Water, steam, air conditioning, and irrigation systems",
+    "manual_ind": [221300
+]
+  },
+  "17": {
+    "ind": "22132",
+    "naics": "22132",
+    "desc": "Sewage treatment facilities",
+    "manual_ind": [221300
+]
+  },
+  "18": {
+    "ind": "22S",
+    "naics": "Part of 22",
+    "desc": "Not specified utilities",
+    "manual_ind": [221200, 221100, 221300]
+  },
+  "19": {
+    "ind": "23",
+    "naics": "23",
+    "desc": "Construction",
+    "manual_ind": ["230301", "230302", "233210", "233230", "233240", "233262", "233293", "2332A0", "2332B0", "233411", "233412", "2334A0"]
+  },
+  "20": {
+    "ind": "311M1",
+    "naics": "3111, 3112",
+    "desc": "Animal food, grain and oilseed milling",
+    "manual_ind": ["311111", "311119", "311210", "311221", "31122A", "311225", "311230"]
+  },
+  "21": {
+    "ind": "3113",
+    "naics": "3113",
+    "desc": "Sugar and confectionery products",
+    "manual_ind": [311300]
+  },
+  "22": {
+    "ind": "3114",
+    "naics": "3114",
+    "desc": "Fruit and vegetable preserving and specialty foods",
+    "manual_ind": [311410, 311420]
+  },
+  "23": {
+    "ind": "3115",
+    "naics": "3115",
+    "desc": "Dairy products",
+    "manual_ind": ["31151A", 311513, 311514, 311520]
+  },
+  "24": {
+    "ind": "3116",
+    "naics": "3116",
+    "desc": "Animal slaughtering and processing",
+    "manual_ind": ["31161A", 311615]
+  },
+  "25": {
+    "ind": "311811",
+    "naics": "311811",
+    "desc": "Retail bakeries",
+    "manual_ind": [311810]
+  },
+  "27": {
+    "ind": "3118Z",
+    "naics": "3118 exc. 311811",
+    "desc": "Bakeries and tortillerias, except retail (2013-onward)",
+    "manual_ind": ["3118A0"]
+  },
+  "28": {
+    "ind": "311M2",
+    "naics": "3117, 3119",
+    "desc": "Seafood and other miscellaneous foods, n.e.c.",
+    "manual_ind": [311700, 311910, 311920, 311930, 311940, 311990]
+  },
+  "29": {
+    "ind": "311S",
+    "naics": "Part of 311",
+    "desc": "Not specified food industries",
+    "manual_ind": [311111, 311119, 311210, 311221, "31122A", 311225, 311230, 311300, 311410, 311420, "31151A", 311513, 311514, 311520, "31161A", 311615, 311700, 311810, "3118A0", 311910, 311920, 311930, 311940, 311990, 312110, 312120, 312130, 312140, 312200]
+  },
+  "30": {
+    "ind": "3121",
+    "naics": "3121",
+    "desc": "Beverage",
+    "manual_ind": [312110, 312120, 312130, 312140]
+  },
+  "31": {
+    "ind": "3122",
+    "naics": "3122",
+    "desc": "Tobacco",
+    "manual_ind": [312200]
+  },
+  "32": {
+    "ind": "3131",
+    "naics": "3131",
+    "desc": "Fiber, yarn, and thread mills",
+    "manual_ind": [313100]
+  },
+  "33": {
+    "ind": "3132Z",
+    "naics": "3132 exc. 31324",
+    "desc": "Fabric mills, except knitting",
+    "manual_ind": [313200]
+  },
+  "34": {
+    "ind": "3133",
+    "naics": "3133",
+    "desc": "Textile and fabric finishing and coating mills",
+    "manual_ind": [313300]
+  },
+  "35": {
+    "ind": "31411",
+    "naics": "31411",
+    "desc": "Carpet and rug mills",
+    "manual_ind": [314110]
+  },
+  "36": {
+    "ind": "314Z",
+    "naics": "314 exc.31411",
+    "desc": "Textile product mills except carpets and rugs",
+    "manual_ind": [314120, 314900]
+  },
+  "38": {
+    "ind": "31M",
+    "naics": "31324, 3151",
+    "desc": "Knitting fabric mills, and apparel knitting mills (2008-onward)",
+    "manual_ind": [313200]
+  },
+  "39": {
+    "ind": "3152",
+    "naics": "3152",
+    "desc": "Cut and sew apparel",
+    "manual_ind": [315000
+]
+  },
+  "40": {
+    "ind": "3159",
+    "naics": "3159",
+    "desc": "Apparel accessories and other apparel",
+    "manual_ind": [315000]
+  },
+  "41": {
+    "ind": "3162",
+    "naics": "3162",
+    "desc": "Footwear",
+    "manual_ind": [316000]
+  },
+  "43": {
+    "ind": "316M",
+    "naics": "3161, 3169",
+    "desc": "Leather tanning and finishing and other allied products manufacturing (2008-onward)",
+    "manual_ind": [316000]
+  },
+  "44": {
+    "ind": "3221",
+    "naics": "3221",
+    "desc": "Pulp, paper, and paperboard mills",
+    "manual_ind": [322110, 322120, 322130]
+  },
+  "46": {
+    "ind": "32221",
+    "naics": "32221",
+    "desc": "Paperboard containers (2013-onward)",
+    "manual_ind": [322210, 322220, 322230, 322291]
+  },
+  "47": {
+    "ind": "3222M",
+    "naics": "32222, 32223, 32229",
+    "desc": "Miscellaneous paper and pulp products",
+    "manual_ind": [322299]
+  },
+  "48": {
+    "ind": "323 (2003-2007)",
+    "naics": "3231",
+    "desc": "Printing and related support activities",
+    "manual_ind": -99
+  },
+  "49": {
+    "ind": "3231",
+    "naics": "3231",
+    "desc": "Printing and related support activities",
+    "manual_ind": [323110, 323120]
+  },
+  "50": {
+    "ind": "32411",
+    "naics": "32411",
+    "desc": "Petroleum refining",
+    "manual_ind": [324110]
+  },
+  "51": {
+    "ind": "3241M",
+    "naics": "32412, 32419",
+    "desc": "Miscellaneous petroleum and coal products",
+    "manual_ind": [324121, 324122, 324190]
+  },
+  "52": {
+    "ind": "3252",
+    "naics": "3252",
+    "desc": "Resin, synthetic rubber, and fibers and filaments",
+    "manual_ind": [325211, "3252A0"]
+  },
+  "53": {
+    "ind": "3253",
+    "naics": "3253",
+    "desc": "Agricultural chemicals",
+    "manual_ind": [325310, 325320]
+  },
+  "54": {
+    "ind": "3254",
+    "naics": "3254",
+    "desc": "Pharmaceuticals and medicines",
+    "manual_ind": [325411, 325412, 325413, 325414]
+  },
+  "55": {
+    "ind": "3255",
+    "naics": "3255",
+    "desc": "Paint, coating, and adhesives",
+    "manual_ind": [325510, 325520]
+  },
+  "56": {
+    "ind": "3256",
+    "naics": "3256",
+    "desc": "Soap, cleaning compound, and cosmetics",
+    "manual_ind": [325610, 325620]
+  },
+  "57": {
+    "ind": "325M",
+    "naics": "3251, 3259",
+    "desc": "Industrial and miscellaneous chemicals",
+    "manual_ind": [325910, "3259A0", 325110, 325120, 325130, 325180, 325190]
+  },
+  "58": {
+    "ind": "3261",
+    "naics": "3261",
+    "desc": "Plastics products",
+    "manual_ind": [326110, 326120, 326130, 326140, 326150, 326160, 326190]
+  },
+  "59": {
+    "ind": "32621",
+    "naics": "32621",
+    "desc": "Tires",
+    "manual_ind": [326210]
+  },
+  "60": {
+    "ind": "3262M",
+    "naics": "32622, 32629",
+    "desc": "Rubber products, except tires",
+    "manual_ind": [326220, 326290]
+  },
+  "62": {
+    "ind": "32711",
+    "naics": "32711",
+    "desc": "Pottery, ceramics, and plumbing fixture manufacturing (2008-onward)",
+    "manual_ind": [327100]
+  },
+  "63": {
+    "ind": "32712 (2003-2012)",
+    "naics": "327120",
+    "desc": "Structural clay products (2003-2012)",
+    "manual_ind": -99
+  },
+  "64": {
+    "ind": "327120",
+    "naics": "327120",
+    "desc": "Clay building material and refractories (2013-onward)",
+    "manual_ind": [327100]
+  },
+  "65": {
+    "ind": "3272",
+    "naics": "3272",
+    "desc": "Glass and glass products",
+    "manual_ind": [327200]
+  },
+  "66": {
+    "ind": "327M",
+    "naics": "3273, 3274",
+    "desc": "Cement, concrete, lime, and gypsum products",
+    "manual_ind": [327310, 327320, 327330, 327390, 327400]
+  },
+  "67": {
+    "ind": "3279",
+    "naics": "3279",
+    "desc": "Miscellaneous nonmetallic mineral products",
+    "manual_ind": [327910, 327991, 327992, 327993, 327999]
+  },
+  "68": {
+    "ind": "331M",
+    "naics": "3311, 3312",
+    "desc": "Iron and steel mills and steel products",
+    "manual_ind": [331110, 331200]
+  },
+  "69": {
+    "ind": "3313",
+    "naics": "3313",
+    "desc": "Aluminum production and processing",
+    "manual_ind": ["33131A", "331314", "33131B"]
+  },
+  "70": {
+    "ind": "3314",
+    "naics": "3314",
+    "desc": "Nonferrous metal, except aluminum, production and processing",
+    "manual_ind": [331411, 331419, 331420, 331490]
+  },
+  "71": {
+    "ind": "3315",
+    "naics": "3315",
+    "desc": "Foundries",
+    "manual_ind": [331510, 331520]
+  },
+  "72": {
+    "ind": "3321",
+    "naics": "3321",
+    "desc": "Metal forgings and stampings",
+    "manual_ind": ["33211A", "332114", "33211B"]
+  },
+  "73": {
+    "ind": "3322",
+    "naics": "3322",
+    "desc": "Cutlery and hand tools",
+    "manual_ind": [332200]
+  },
+  "75": {
+    "ind": "332M",
+    "naics": "3323, 3324",
+    "desc": "Structural metals, and boiler, tank, and shipping containers (2008-onward)",
+    "manual_ind": [332310, 332320, 332410, 332420, 332430]
+  },
+  "76": {
+    "ind": "3327",
+    "naics": "3327",
+    "desc": "Machine shops; turned products; screws, nuts and bolts",
+    "manual_ind": [332710, 332720]
+  },
+  "77": {
+    "ind": "3328",
+    "naics": "3328",
+    "desc": "Coating, engraving, heat treating and allied activities",
+    "manual_ind": [332800]
+  },
+  "78": {
+    "ind": "33299M",
+    "naics": "332992-332995",
+    "desc": "Ordnance",
+    "manual_ind": ["332991", "33299A", "332996", "33299B"]
+  },
+  "79": {
+    "ind": "332MZ",
+    "naics": "3325, 3326, 3329 exc. 332992-332995",
+    "desc": "Miscellaneous fabricated metal products manufacturing",
+    "manual_ind": [332500, 332600]
+  },
+  "80": {
+    "ind": "33MS",
+    "naics": "Part of 331 and 332",
+    "desc": "Not specified metal industries",
+    "manual_ind": ["33211A", 332114, "33211B", 332200, 332310, 332320, 332410, 332420, 332430, 332500, 332600, 332710, 332720, 332800, "33291A", 332913, 332991, "33299A", 332996, "33299B"]
+  },
+  "81": {
+    "ind": "33311",
+    "naics": "33311",
+    "desc": "Agricultural implements",
+    "manual_ind": [333111]
+  },
+  "83": {
+    "ind": "3331M",
+    "naics": "33312, 33313",
+    "desc": "Construction, and mining and oil and gas field machinery (2008-onward)",
+    "manual_ind": [333120, 333130]
+  },
+  "84": {
+    "ind": "3333",
+    "naics": "3333",
+    "desc": "Commercial and service industry machinery",
+    "manual_ind": ["33331A", 333313, 333314, 333315]
+  },
+  "85": {
+    "ind": "3335",
+    "naics": "3335",
+    "desc": "Metalworking machinery",
+    "manual_ind": [333511, "33351A", 333514, "33351B"]
+  },
+  "86": {
+    "ind": "3336",
+    "naics": "3336",
+    "desc": "Engines, turbines, and power transmission equipment",
+    "manual_ind": [333611, 333612, 333613, 333618]
+  },
+  "87": {
+    "ind": "333M",
+    "naics": "3332, 3334, 3339",
+    "desc": "Machinery, n.e.c.",
+    "manual_ind": ["33329A", 333220, 333295, "33341A", 333414, 333415, "33391A", 333912, 333920, "333991", "33399A", 333993, 333994, "33399B"]
+  },
+  "88": {
+    "ind": "333S",
+    "naics": "Part of 333",
+    "desc": "Not specified machinery",
+    "manual_ind": [333111, 333112, 333120, 333130, "33329A", 333220, 333295, "33331A", 333313, 333314, 333315, "33341A", 333414, 333415, 333511, "33351A", 333514, "33351B", 333611, 333612, 333613, 333618, "33391A", 333912, 333920, 333991, "33399A", 333993, 333994, "33399B"]
+  },
+  "89": {
+    "ind": "3341",
+    "naics": "3341",
+    "desc": "Computer and peripheral equipment",
+    "manual_ind": [334111, 334112, "33411A"]
+  },
+  "90": {
+    "ind": "334M1",
+    "naics": "3342, 3343",
+    "desc": "Communications, audio, and video equipment",
+    "manual_ind": [334210, 334220, 334290, 334300]
+  },
+  "91": {
+    "ind": "3345",
+    "naics": "3345",
+    "desc": "Navigational, measuring, electromedical, and control instruments",
+    "manual_ind": [334510, 334511, 334512, 334513, 334514, 334515, 334516, 334517, "33451A"]
+  },
+  "92": {
+    "ind": "334M2",
+    "naics": "3344, 3346",
+    "desc": "Electronic components and products, n.e.c.",
+    "manual_ind": ["33441A", 334413, 334418, "334610"]
+  },
+  "93": {
+    "ind": "3352",
+    "naics": "3352",
+    "desc": "Household appliances",
+    "manual_ind": [335210, 335221, 335222, 335224, 335228]
+  },
+  "95": {
+    "ind": "335M",
+    "naics": "3351, 3353, 3359",
+    "desc": "Electric lighting, and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c. (2008-onward)",
+    "manual_ind": [335110, 335120, 335311, 335312, 335313, 335314, 335911, 335912, 335920, 335930, 335991, 335999]
+  },
+  "96": {
+    "ind": "336M",
+    "naics": "3361, 3362, 3363",
+    "desc": "Motor vehicles and motor vehicle equipment",
+    "manual_ind": [336111, 336112, 336120, 336211, 336212, 336213, 336214, 336310, 336320, "3363A0", 336350, 336360, 336370, 336390]
+  },
+  "97": {
+    "ind": "33641M1",
+    "naics": "336411-336413",
+    "desc": "Aircraft and parts",
+    "manual_ind": [336411, 336412, 336413]
+  },
+  "98": {
+    "ind": "33641M2",
+    "naics": "336414-336419",
+    "desc": "Aerospace products and parts",
+    "manual_ind": [336414, "33641A"]
+  },
+  "99": {
+    "ind": "3365",
+    "naics": "3365",
+    "desc": "Railroad rolling stock",
+    "manual_ind": [336500]
+  },
+  "100": {
+    "ind": "3366",
+    "naics": "3366",
+    "desc": "Ship and boat building",
+    "manual_ind": [336611, 336612]
+  },
+  "101": {
+    "ind": "3369",
+    "naics": "3369",
+    "desc": "Other transportation equipment",
+    "manual_ind": [336991, 336992, 336999]
+  },
+  "102": {
+    "ind": "3211",
+    "naics": "3211",
+    "desc": "Sawmills and wood preservation",
+    "manual_ind": [321100]
+  },
+  "103": {
+    "ind": "3212",
+    "naics": "3212",
+    "desc": "Veneer, plywood, and engineered wood products",
+    "manual_ind": [321200]
+  },
+  "104": {
+    "ind": "32199M",
+    "naics": "321991,321992",
+    "desc": "Prefabricated wood buildings and mobile homes",
+    "manual_ind": [321910, "3219A0"]
+  },
+  "105": {
+    "ind": "3219ZM",
+    "naics": "3219 exc. 321991, 321992",
+    "desc": "Miscellaneous wood products",
+    "manual_ind": ["3219A0"]
+  },
+  "107": {
+    "ind": "337",
+    "naics": "337",
+    "desc": "Furniture and related products (2008-onward)",
+    "manual_ind": [337110, 337121, 337122, "33712A", 337127, "33721A", 337215, 337900]
+  },
+  "108": {
+    "ind": "3391",
+    "naics": "3391",
+    "desc": "Medical equipment and supplies",
+    "manual_ind": [339112, 339113, 339114, 339115, 339116]
+  },
+  "110": {
+    "ind": "3399M",
+    "naics": "33992, 33993",
+    "desc": "Sporting and athletic goods, and doll, toy, and game manufacturing (2008-onward)",
+    "manual_ind": [339920, 339930]
+  },
+  "111": {
+    "ind": "3399ZM",
+    "naics": "3399 exc. 33992, 33993",
+    "desc": "Miscellaneous manufacturing, n.e.c.",
+    "manual_ind": [339910, 339940, 339950, 339990]
+  },
+  "112": {
+    "ind": "3MS",
+    "naics": "Part of 31-33",
+    "desc": "Not specified industries",
+    "manual_ind": -10
+  },
+  "114": {
+    "ind": "4231",
+    "naics": "4231",
+    "desc": "Motor vehicles, parts and supplies, merchant wholesalers (2008-onward)",
+    "manual_ind": [420000]
+  },
+  "115": {
+    "ind": "4232",
+    "naics": "4232",
+    "desc": "Furniture and home furnishing",
+    "manual_ind": [420000]
+  },
+  "116": {
+    "ind": "4233",
+    "naics": "4233",
+    "desc": "Lumber and other construction materials",
+    "manual_ind": [420000]
+  },
+  "117": {
+    "ind": "4234",
+    "naics": "4234",
+    "desc": "Professional and commercial equipment and supplies",
+    "manual_ind": [420000]
+  },
+  "118": {
+    "ind": "4235",
+    "naics": "4235",
+    "desc": "Metals and minerals, except petroleum",
+    "manual_ind": [420000]
+  },
+  "119": {
+    "ind": "4236",
+    "naics": "4236",
+    "desc": "Household appliances and electrical and electronic goods",
+    "manual_ind": [420000]
+  },
+  "120": {
+    "ind": "4237",
+    "naics": "4237",
+    "desc": "Hardware, plumbing and heating equipment, and supplies",
+    "manual_ind": [420000]
+  },
+  "121": {
+    "ind": "4238",
+    "naics": "4238",
+    "desc": "Machinery, equipment, and supplies",
+    "manual_ind": [420000]
+  },
+  "122": {
+    "ind": "42393",
+    "naics": "42393",
+    "desc": "Recyclable material",
+    "manual_ind": [420000]
+  },
+  "123": {
+    "ind": "4239Z",
+    "naics": "4239 exc. 42393",
+    "desc": "Miscellaneous durable goods",
+    "manual_ind": [420000]
+  },
+  "124": {
+    "ind": "4241",
+    "naics": "4241",
+    "desc": "Paper and paper products",
+    "manual_ind": [420000]
+  },
+  "125": {
+    "ind": "424M",
+    "naics": "4242, 4246",
+    "desc": "Drugs, sundries, and chemical and allied products",
+    "manual_ind": [420000]
+  },
+  "127": {
+    "ind": "4243",
+    "naics": "4243",
+    "desc": "Apparel, piece goods, and notions (2013-onward)",
+    "manual_ind": [420000]
+  },
+  "128": {
+    "ind": "4244",
+    "naics": "4244",
+    "desc": "Groceries and related products",
+    "manual_ind": [420000]
+  },
+  "129": {
+    "ind": "4245",
+    "naics": "4245",
+    "desc": "Farm product raw materials",
+    "manual_ind": [420000]
+  },
+  "130": {
+    "ind": "4247",
+    "naics": "4247",
+    "desc": "Petroleum and petroleum products",
+    "manual_ind": [420000]
+  },
+  "131": {
+    "ind": "4248",
+    "naics": "4248",
+    "desc": "Alcoholic beverages",
+    "manual_ind": [420000]
+  },
+  "132": {
+    "ind": "42491",
+    "naics": "42491",
+    "desc": "Farm supplies",
+    "manual_ind": [420000]
+  },
+  "133": {
+    "ind": "4249Z",
+    "naics": "4249 exc. 42491",
+    "desc": "Miscellaneous nondurable goods, merchant wholesalers",
+    "manual_ind": [420000]
+  },
+  "134": {
+    "ind": "4251",
+    "naics": "4251",
+    "desc": "Wholesale electronic markets, agents and brokers",
+    "manual_ind": [420000]
+  },
+  "135": {
+    "ind": "42S",
+    "naics": "Part of 42",
+    "desc": "Not specified trade",
+    "manual_ind": [420000]
+  },
+  "136": {
+    "ind": "4411",
+    "naics": "4411",
+    "desc": "Automobile dealers",
+    "manual_ind": [441000]
+  },
+  "137": {
+    "ind": "4412",
+    "naics": "4412",
+    "desc": "Other motor vehicle dealers",
+    "manual_ind": [441000]
+  },
+  "138": {
+    "ind": "4413",
+    "naics": "4413",
+    "desc": "Auto parts, accessories, and tire stores",
+    "manual_ind": [441000]
+  },
+  "139": {
+    "ind": "442",
+    "naics": "442",
+    "desc": "Furniture and home furnishings stores",
+    "manual_ind": ["4A0000"]
+  },
+  "140": {
+    "ind": "443111 (2003-2012)",
+    "naics": "443141",
+    "desc": "Household appliance stores",
+    "manual_ind": ["4A0000"]
+  },
+  "141": {
+    "ind": "443141",
+    "naics": "443141",
+    "desc": "Household appliance stores",
+    "manual_ind": ["4A0000"]
+  },
+  "142": {
+    "ind": "443142",
+    "naics": "443142",
+    "desc": "Electronics stores",
+    "manual_ind": ["4A0000"]
+  },
+  "143": {
+    "ind": "4441Z",
+    "naics": "4441 exc. 44413",
+    "desc": "Building material and supplies dealers",
+    "manual_ind": ["4A0000"]
+  },
+  "144": {
+    "ind": "44413",
+    "naics": "44413",
+    "desc": "Hardware stores",
+    "manual_ind": ["4A0000"]
+  },
+  "145": {
+    "ind": "4442",
+    "naics": "4442",
+    "desc": "Lawn and garden equipment and supplies stores",
+    "manual_ind": ["4A0000"]
+  },
+  "146": {
+    "ind": "4451",
+    "naics": "4451",
+    "desc": "Grocery stores",
+    "manual_ind": [445000]
+  },
+  "147": {
+    "ind": "4452",
+    "naics": "4452",
+    "desc": "Specialty food stores",
+    "manual_ind": [445000]
+  },
+  "148": {
+    "ind": "4453",
+    "naics": "4453",
+    "desc": "Beer, wine, and liquor stores",
+    "manual_ind": [445000]
+  },
+  "149": {
+    "ind": "44611",
+    "naics": "44611",
+    "desc": "Pharmacies and drug stores",
+    "manual_ind": ["4A0000"]
+  },
+  "150": {
+    "ind": "446Z",
+    "naics": "446 exc. 44611",
+    "desc": "Health and personal care, except drug, stores",
+    "manual_ind": ["4A0000"]
+  },
+  "151": {
+    "ind": "447",
+    "naics": "447",
+    "desc": "Gasoline stations",
+    "manual_ind": ["4A0000"]
+  },
+  "152": {
+    "ind": "448ZM (2003-2007)",
+    "naics": "4481",
+    "desc": "Clothing and accessories, except shoe, stores (2003-2007)",
+    "manual_ind": ["4A0000"]
+  },
+  "153": {
+    "ind": "4481",
+    "naics": "4481",
+    "desc": "Clothing stores (2008-onward)",
+    "manual_ind": ["4A0000"]
+  },
+  "154": {
+    "ind": "44821",
+    "naics": "44821",
+    "desc": "Shoe stores",
+    "manual_ind": ["4A0000"]
+  },
+  "155": {
+    "ind": "4483",
+    "naics": "4483",
+    "desc": "Jewelry, luggage,and leather goods stores",
+    "manual_ind": ["4A0000"]
+  },
+  "156": {
+    "ind": "4511M",
+    "naics": "45111, 45112",
+    "desc": "Sporting goods, and hobby and toy stores",
+    "manual_ind": ["4A0000"]
+  },
+  "157": {
+    "ind": "45113",
+    "naics": "45113",
+    "desc": "Sewing, needlework and piece goods stores",
+    "manual_ind": ["4A0000"]
+  },
+  "158": {
+    "ind": "45114",
+    "naics": "45114",
+    "desc": "Musical instrument and supplies stores",
+    "manual_ind": ["4A0000"]
+  },
+  "159": {
+    "ind": "45121",
+    "naics": "45121",
+    "desc": "Book stores and news dealers",
+    "manual_ind": ["4A0000"]
+  },
+  "160": {
+    "ind": "45211",
+    "naics": "45211",
+    "desc": "Department stores",
+    "manual_ind": [452000]
+  },
+  "161": {
+    "ind": "4529",
+    "naics": "4529",
+    "desc": "Miscellaneous general merchandise stores",
+    "manual_ind": [452000]
+  },
+  "162": {
+    "ind": "4531",
+    "naics": "4531",
+    "desc": "Florists",
+    "manual_ind": ["4A0000"]
+  },
+  "163": {
+    "ind": "45321",
+    "naics": "45321",
+    "desc": "Office supplies and stationary stores",
+    "manual_ind": ["4A0000"]
+  },
+  "164": {
+    "ind": "4533",
+    "naics": "4533",
+    "desc": "Used merchandise stores",
+    "manual_ind": ["4A0000"]
+  },
+  "165": {
+    "ind": "45322",
+    "naics": "45322",
+    "desc": "Gift, novelty, and souvenir shops",
+    "manual_ind": ["4A0000"]
+  },
+  "166": {
+    "ind": "4539",
+    "naics": "4539",
+    "desc": "Miscellaneous retail stores",
+    "manual_ind": ["4A0000"]
+  },
+  "167": {
+    "ind": "4541 (2003-2004)",
+    "naics": "454111",
+    "desc": "Electronic shopping and mail-order houses (2003-2004)",
+    "manual_ind": ["4A0000"]
+  },
+  "168": {
+    "ind": "454111",
+    "naics": "454111",
+    "desc": "Electronic shopping (2005-onward)",
+    "manual_ind": ["4A0000"]
+  },
+  "169": {
+    "ind": "454112",
+    "naics": "454112",
+    "desc": "Electronic auctions",
+    "manual_ind": ["4A0000"]
+  },
+  "170": {
+    "ind": "454113",
+    "naics": "454113",
+    "desc": "Mail-order houses",
+    "manual_ind": ["4A0000"]
+  },
+  "171": {
+    "ind": "4542",
+    "naics": "4542",
+    "desc": "Vending machine operators",
+    "manual_ind": ["4A0000"]
+  },
+  "172": {
+    "ind": "45431 (2003-2012)",
+    "naics": "454310",
+    "desc": "Fuel dealers",
+    "manual_ind": ["4A0000"]
+  },
+  "173": {
+    "ind": "454310",
+    "naics": "454310",
+    "desc": "Fuel dealers",
+    "manual_ind": ["4A0000"]
+  },
+  "174": {
+    "ind": "45439",
+    "naics": "45439",
+    "desc": "Other direct selling establishments",
+    "manual_ind": ["4A0000"]
+  },
+  "175": {
+    "ind": "4MS",
+    "naics": "Part of 44-45",
+    "desc": "Not specified retail trade",
+    "manual_ind": [441000, 445000, 452000, "4A0000"]
+  },
+  "176": {
+    "ind": "481",
+    "naics": "481",
+    "desc": "Air transportation",
+    "manual_ind": [481000]
+  },
+  "177": {
+    "ind": "482",
+    "naics": "482",
+    "desc": "Rail transportation",
+    "manual_ind": [482000]
+  },
+  "178": {
+    "ind": "483",
+    "naics": "483",
+    "desc": "Water transportation",
+    "manual_ind": [483000]
+  },
+  "179": {
+    "ind": "484",
+    "naics": "484",
+    "desc": "Truck transportation",
+    "manual_ind": [484000]
+  },
+  "180": {
+    "ind": "485M",
+    "naics": "4851, 4852, 4854-4859",
+    "desc": "Bus service and urban transit",
+    "manual_ind": [485000, "S00201"]
+  },
+  "181": {
+    "ind": "4853",
+    "naics": "4853",
+    "desc": "Taxi and limousine service",
+    "manual_ind": [485000]
+  },
+  "182": {
+    "ind": "486",
+    "naics": "486",
+    "desc": "Pipeline transportation",
+    "manual_ind": [486000]
+  },
+  "183": {
+    "ind": "487",
+    "naics": "487",
+    "desc": "Scenic and sightseeing transportation",
+    "manual_ind": ["48A000"]
+  },
+  "184": {
+    "ind": "488",
+    "naics": "488",
+    "desc": "Services incidental to transportation",
+    "manual_ind": ["48A000"]
+  },
+  "185": {
+    "ind": "491",
+    "naics": "491",
+    "desc": "Postal service",
+    "manual_ind": [491000]
+  },
+  "186": {
+    "ind": "492",
+    "naics": "492",
+    "desc": "Couriers and messengers",
+    "manual_ind": [492000]
+  },
+  "187": {
+    "ind": "493",
+    "naics": "493",
+    "desc": "Warehousing and storage",
+    "manual_ind": [493000]
+  },
+  "188": {
+    "ind": "51111",
+    "naics": "51111",
+    "desc": "Newspaper publishers",
+    "manual_ind": [511110]
+  },
+  "190": {
+    "ind": "5111Z",
+    "naics": "5111 exc. 51111",
+    "desc": "Periodical, book, and directory publishers (2008-onward)",
+    "manual_ind": [511120, 511130, "5111A0"]
+  },
+  "191": {
+    "ind": "5112",
+    "naics": "5112",
+    "desc": "Software publishing",
+    "manual_ind": [511200]
+  },
+  "192": {
+    "ind": "5121",
+    "naics": "5121",
+    "desc": "Motion pictures and video industries",
+    "manual_ind": [512100]
+  },
+  "193": {
+    "ind": "5122",
+    "naics": "5122",
+    "desc": "Sound recording industries",
+    "manual_ind": [512200]
+  },
+  "194": {
+    "ind": "51M (2003-2007)",
+    "naics": "515",
+    "desc": "Radio and television broadcasting and cable (2003-2007)",
+    "manual_ind": -99
+  },
+  "195": {
+    "ind": "515",
+    "naics": "515",
+    "desc": "Broadcasting, except Internet (2008-onward)",
+    "manual_ind": [515100, 515200]
+  },
+  "196": {
+    "ind": "51913",
+    "naics": "51913",
+    "desc": "Internet publishing and broadcasting and web search portals",
+    "manual_ind": [519130]
+  },
+  "197": {
+    "ind": "5171",
+    "naics": "5171",
+    "desc": "Wired telecommunications carriers",
+    "manual_ind": [517110]
+  },
+  "199": {
+    "ind": "517Z",
+    "naics": "517 exc. 5171",
+    "desc": "Telecommunications, except wired telecommunications carriers (2008-onward)",
+    "manual_ind": [517210, "517A00"]
+  },
+  "200": {
+    "ind": "5182",
+    "naics": "5182",
+    "desc": "Data processing, hosting, and related services",
+    "manual_ind": [518200]
+  },
+  "201": {
+    "ind": "51912",
+    "naics": "51912",
+    "desc": "Libraries and archives",
+    "manual_ind": ["5191A0"]
+  },
+  "202": {
+    "ind": "5191Z (2003-2007)",
+    "naics": "5191 exc. 51912, 51913",
+    "desc": "Other information services (2003-2007)",
+    "manual_ind": ["5191A0"]
+  },
+  "203": {
+    "ind": "5191ZM",
+    "naics": "5191 exc. 51912, 51913",
+    "desc": "Other information services, except libraries and archives, and internet publishing and broadcasting and web search portals (2008-onward)",
+    "manual_ind": ["5191A0"]
+  },
+  "204": {
+    "ind": "52M1",
+    "naics": "521, 52211, 52219",
+    "desc": "Banking and related activities",
+    "manual_ind": ["52A000"]
+  },
+  "205": {
+    "ind": "5221M",
+    "naics": "52212, 52213",
+    "desc": "Savings institutions, including credit unions",
+    "manual_ind": ["52A000"]
+  },
+  "206": {
+    "ind": "522M",
+    "naics": "5222, 5223",
+    "desc": "Non-depository credit and related activities",
+    "manual_ind": ["522A00"]
+  },
+  "207": {
+    "ind": "52M2",
+    "naics": "523, 525",
+    "desc": "Securities, commodities, funds, trusts, and other financial investments",
+    "manual_ind": ["523A00", 523900, 525000]
+  },
+  "208": {
+    "ind": "524",
+    "naics": "524",
+    "desc": "Insurance carriers and related activities",
+    "manual_ind": [524100, 524200]
+  },
+  "209": {
+    "ind": "531",
+    "naics": "531",
+    "desc": "Real estate",
+    "manual_ind": ["5310HS", "531ORE"]
+  },
+  "210": {
+    "ind": "5321",
+    "naics": "5321",
+    "desc": "Automotive equipment rental and leasing",
+    "manual_ind": [532100]
+  },
+  "211": {
+    "ind": "53223",
+    "naics": "53223",
+    "desc": "Video tape and disk rental",
+    "manual_ind": ["532A00"]
+  },
+  "212": {
+    "ind": "532M",
+    "naics": "53221, 53222, 53229, 5323",
+    "desc": "Other consumer goods rental",
+    "manual_ind": ["532A00"]
+  },
+  "213": {
+    "ind": "53M",
+    "naics": "5324, 533",
+    "desc": "Commercial, industrial, and other intangible assets rental and leasing",
+    "manual_ind": [532400]
+  },
+  "214": {
+    "ind": "5411",
+    "naics": "5411",
+    "desc": "Legal services",
+    "manual_ind": [541100]
+  },
+  "215": {
+    "ind": "5412",
+    "naics": "5412",
+    "desc": "Accounting, tax preparation, bookkeeping and payroll services",
+    "manual_ind": [541200]
+  },
+  "216": {
+    "ind": "5413",
+    "naics": "5413",
+    "desc": "Architectural, engineering, and related services",
+    "manual_ind": [541300]
+  },
+  "217": {
+    "ind": "5414",
+    "naics": "5414",
+    "desc": "Specialized design services",
+    "manual_ind": [541400]
+  },
+  "218": {
+    "ind": "5415",
+    "naics": "5415",
+    "desc": "Computer systems design and related services",
+    "manual_ind": [541511, 541512, "54151A"]
+  },
+  "219": {
+    "ind": "5416",
+    "naics": "5416",
+    "desc": "Management, scientific and technical consulting services",
+    "manual_ind": [541610, "5416A0"]
+  },
+  "220": {
+    "ind": "5417",
+    "naics": "5417",
+    "desc": "Scientific research and development services",
+    "manual_ind": [541700]
+  },
+  "222": {
+    "ind": "5418",
+    "naics": "5418",
+    "desc": "Advertising, public relations, and related services (2013-onward)",
+    "manual_ind": [541800]
+  },
+  "223": {
+    "ind": "54194",
+    "naics": "54194",
+    "desc": "Veterinary services",
+    "manual_ind": [541940]
+  },
+  "224": {
+    "ind": "5419Z",
+    "naics": "5419 exc. 54194",
+    "desc": "Other professional, scientific and technical services",
+    "manual_ind": ["5419A0", 541920]
+  },
+  "225": {
+    "ind": "55",
+    "naics": "55",
+    "desc": "Management of companies and enterprises",
+    "manual_ind": [550000]
+  },
+  "226": {
+    "ind": "5613",
+    "naics": "5613",
+    "desc": "Employment services",
+    "manual_ind": [561300]
+  },
+  "227": {
+    "ind": "5614",
+    "naics": "5614",
+    "desc": "Business support services",
+    "manual_ind": [561400]
+  },
+  "228": {
+    "ind": "5615",
+    "naics": "5615",
+    "desc": "Travel arrangements and reservation services",
+    "manual_ind": [561500]
+  },
+  "229": {
+    "ind": "5616",
+    "naics": "5616",
+    "desc": "Investigation and security services",
+    "manual_ind": [561600]
+  },
+  "230": {
+    "ind": "5617Z",
+    "naics": "5617 exc. 56173",
+    "desc": "Services to buildings and dwellings",
+    "manual_ind": [561700]
+  },
+  "231": {
+    "ind": "56173",
+    "naics": "56173",
+    "desc": "Landscaping services",
+    "manual_ind": [561700]
+  },
+  "232": {
+    "ind": "561M",
+    "naics": "5611, 5612, 5619",
+    "desc": "Other administrative, and other support services",
+    "manual_ind": [561100, 561200, 561900]
+  },
+  "233": {
+    "ind": "562",
+    "naics": "562",
+    "desc": "Waste management and remediation services",
+    "manual_ind": [562000]
+  },
+  "234": {
+    "ind": "6111",
+    "naics": "6111",
+    "desc": "Elementary and secondary schools",
+    "manual_ind": [611100]
+  },
+  "236": {
+    "ind": "611M1",
+    "naics": "6112, 6113",
+    "desc": "Colleges, universities, and professional schools, including junior colleges (2013-onward)",
+    "manual_ind": ["611A00"]
+  },
+  "237": {
+    "ind": "611M2",
+    "naics": "6114, 6115",
+    "desc": "Business, technical, and trade schools and training",
+    "manual_ind": ["611B00"]
+  },
+  "238": {
+    "ind": "611M3",
+    "naics": "6116, 6117",
+    "desc": "Other schools, instruction and educational services",
+    "manual_ind": ["611B00"]
+  },
+  "239": {
+    "ind": "6211",
+    "naics": "6211",
+    "desc": "Offices of physicians",
+    "manual_ind": [621100]
+  },
+  "240": {
+    "ind": "6212",
+    "naics": "6212",
+    "desc": "Offices of dentists",
+    "manual_ind": [621200]
+  },
+  "241": {
+    "ind": "62131",
+    "naics": "62131",
+    "desc": "Office of chiropractors",
+    "manual_ind": [621300]
+  },
+  "242": {
+    "ind": "62132",
+    "naics": "62132",
+    "desc": "Offices of optometrists",
+    "manual_ind": [621300]
+  },
+  "243": {
+    "ind": "6213ZM",
+    "naics": "6213 exc. 62131, 62132",
+    "desc": "Offices of other health practitioners",
+    "manual_ind": [621300]
+  },
+  "244": {
+    "ind": "6214",
+    "naics": "6214",
+    "desc": "Outpatient care centers",
+    "manual_ind": [621400]
+  },
+  "245": {
+    "ind": "6216",
+    "naics": "6216",
+    "desc": "Home health care services",
+    "manual_ind": [621600]
+  },
+  "246": {
+    "ind": "621M",
+    "naics": "6215, 6219",
+    "desc": "Other health care services",
+    "manual_ind": [621500, 621900]
+  },
+  "247": {
+    "ind": "622",
+    "naics": "622",
+    "desc": "Hospitals",
+    "manual_ind": [622000]
+  },
+  "249": {
+    "ind": "6231",
+    "naics": "6231",
+    "desc": "Nursing care facilities (skilled nursing facilities) (2013-onward)",
+    "manual_ind": ["623A00"]
+  },
+  "251": {
+    "ind": "623M",
+    "naics": "6232, 6233, 6239",
+    "desc": "Residential care facilities, except skilled nursing facilities (2013-onward)",
+    "manual_ind": ["623B00", "623B00"]
+  },
+  "252": {
+    "ind": "6241",
+    "naics": "6241",
+    "desc": "Individual and family services",
+    "manual_ind": [624100]
+  },
+  "253": {
+    "ind": "6242",
+    "naics": "6242",
+    "desc": "Community food and housing, and emergency services",
+    "manual_ind": ["624A00"]
+  },
+  "254": {
+    "ind": "6243",
+    "naics": "6243",
+    "desc": "Vocational rehabilitation services",
+    "manual_ind": ["624A00"]
+  },
+  "255": {
+    "ind": "6244",
+    "naics": "6244",
+    "desc": "Child day care services",
+    "manual_ind": [624400]
+  },
+  "257": {
+    "ind": "711",
+    "naics": "711",
+    "desc": "Performing arts, spectaor sports, and related industries (2013-onward)",
+    "manual_ind": [711100, 711200, "711A00", 711500]
+  },
+  "258": {
+    "ind": "712",
+    "naics": "712",
+    "desc": "Museums, art galleries, historical sites, and similar institutions",
+    "manual_ind": [712000]
+  },
+  "259": {
+    "ind": "71395",
+    "naics": "71395",
+    "desc": "Bowling centers",
+    "manual_ind": [713900]
+  },
+  "260": {
+    "ind": "713Z",
+    "naics": "713 exc. 71395",
+    "desc": "Other amusement, gambling, and recreation industries",
+    "manual_ind": [713100, 713200, 713900]
+  },
+  "261": {
+    "ind": "7211",
+    "naics": "7211",
+    "desc": "Traveler accommodation",
+    "manual_ind": [721000]
+  },
+  "262": {
+    "ind": "721M",
+    "naics": "7212, 7213",
+    "desc": "Recreational vehicle parks and camps, and rooming and boarding houses",
+    "manual_ind": [721000]
+  },
+  "263": {
+    "ind": "722Z",
+    "naics": "722 exc. 7224",
+    "desc": "Restaurants and other food services",
+    "manual_ind": [722110, 722211, "722A00"]
+  },
+  "264": {
+    "ind": "7224",
+    "naics": "7224",
+    "desc": "Drinking places, alcohol beverages",
+    "manual_ind": ["722A00"]
+  },
+  "265": {
+    "ind": "8111Z",
+    "naics": "8111 exc. 811192",
+    "desc": "Automotive repair and maintenance",
+    "manual_ind": [811100]
+  },
+  "266": {
+    "ind": "811192",
+    "naics": "811192",
+    "desc": "Car washes",
+    "manual_ind": [811100]
+  },
+  "267": {
+    "ind": "8112",
+    "naics": "8112",
+    "desc": "Electronic and precision equipment repair and maintenance",
+    "manual_ind": [811200]
+  },
+  "268": {
+    "ind": "8113",
+    "naics": "8113",
+    "desc": "Commercial and industrial machinery and equipment repair and maintenance",
+    "manual_ind": [811300]
+  },
+  "269": {
+    "ind": "8114",
+    "naics": "8114, 81143",
+    "desc": "Personal and household goods repair and maintenance",
+    "manual_ind": [811400]
+  },
+  "270": {
+    "ind": "812111",
+    "naics": "812111",
+    "desc": "Barber shops",
+    "manual_ind": [812100]
+  },
+  "271": {
+    "ind": "812112",
+    "naics": "812112",
+    "desc": "Beauty salons",
+    "manual_ind": [812100]
+  },
+  "272": {
+    "ind": "8121M",
+    "naics": "812113,81219",
+    "desc": "Nail salons and other personal care services",
+    "manual_ind": [812100]
+  },
+  "273": {
+    "ind": "8123",
+    "naics": "8123",
+    "desc": "Drycleaning and laundry services",
+    "manual_ind": [812300]
+  },
+  "274": {
+    "ind": "8122",
+    "naics": "8122",
+    "desc": "Funeral homes, cemeteries and crematories",
+    "manual_ind": [812200]
+  },
+  "275": {
+    "ind": "8129",
+    "naics": "8129",
+    "desc": "Other personal services",
+    "manual_ind": [812900]
+  },
+  "276": {
+    "ind": "8131",
+    "naics": "8131",
+    "desc": "Religious organizations",
+    "manual_ind": [813100]
+  },
+  "277": {
+    "ind": "813M",
+    "naics": "8132,8133, 8134",
+    "desc": "Civic, social, advocacy organizations and grantmaking and giving services",
+    "manual_ind": ["813A00"]
+  },
+  "278": {
+    "ind": "81393",
+    "naics": "81393",
+    "desc": "Labor unions",
+    "manual_ind": ["813B00"]
+  },
+  "279": {
+    "ind": "8139Z",
+    "naics": "8139 exc.81393",
+    "desc": "Business, professional, political and similar organizations",
+    "manual_ind": ["813B00"]
+  },
+  "280": {
+    "ind": "814",
+    "naics": "814",
+    "desc": "Private households",
+    "manual_ind": [814000]
+  },
+  "281": {
+    "ind": "9211MP",
+    "naics": "92111, 92112, 92114, pt. 92115",
+    "desc": "Executive offices and legislative bodies",
+    "manual_ind": ["S00600"]
+  },
+  "282": {
+    "ind": "92113",
+    "naics": "92113",
+    "desc": "Public finance activities",
+    "manual_ind": ["S00600"]
+  },
+  "283": {
+    "ind": "92119",
+    "naics": "92119",
+    "desc": "Other general government and support",
+    "manual_ind": ["S00600"]
+  },
+  "284": {
+    "ind": "92MP",
+    "naics": "922, pt. 92115",
+    "desc": "Justice, public order, and safety activities",
+    "manual_ind": ["S00600"]
+  },
+  "285": {
+    "ind": "923",
+    "naics": "923",
+    "desc": "Administration of human resource programs",
+    "manual_ind": ["S00600"]
+  },
+  "286": {
+    "ind": "92M1",
+    "naics": "924, 925",
+    "desc": "Administration of environmental quality and housing programs",
+    "manual_ind": ["S00600"]
+  },
+  "287": {
+    "ind": "92M2",
+    "naics": "926, 927",
+    "desc": "Administration of economic programs and space research",
+    "manual_ind": ["S00600"]
+  },
+  "288": {
+    "ind": "928P",
+    "naics": "928 (exc. 928110)",
+    "desc": "National security and international affairs",
+    "manual_ind": ["S00500"]
+  },
+  "289": {
+    "ind": "928110P1",
+    "naics": "928110",
+    "desc": "U.S. Army",
+    "manual_ind": ["S00500"]
+  },
+  "290": {
+    "ind": "928110P2",
+    "naics": "928110",
+    "desc": "U.S. Air Force",
+    "manual_ind": ["S00500"]
+  },
+  "291": {
+    "ind": "928110P3",
+    "naics": "928110",
+    "desc": "U.S. Navy",
+    "manual_ind": ["S00500"]
+  },
+  "292": {
+    "ind": "928110P4",
+    "naics": "928110",
+    "desc": "U.S. Marines",
+    "manual_ind": ["S00500"]
+  },
+  "293": {
+    "ind": "928110P5",
+    "naics": "928110",
+    "desc": "U.S. Coast Guard",
+    "manual_ind": ["S00500"]
+  },
+  "294": {
+    "ind": "928110P6",
+    "naics": "928110",
+    "desc": "U.S. Armed forces, branch not specified",
+    "manual_ind": ["S00500"]
+  },
+  "295": {
+    "ind": "928110P7",
+    "naics": "928110",
+    "desc": "Military reserves or national guard",
+    "manual_ind": ["S00500"]
+  },
+  "296": {
+    "ind": "333MS",
+    "naics": "3332, 3334, 3339",
+    "desc": "Machinery, n.e.c.",
+    "manual_ind": ["33329A", 333220, 333295, "33341A", 333414, 333415, "33391A", "333912", "333920", "333991", "33399A", "333993", "333994", "33399B"]
+  }
+}
